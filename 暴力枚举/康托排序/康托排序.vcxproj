@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="FileName.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="summarize.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
