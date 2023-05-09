@@ -17,7 +17,7 @@
 
 3. 
 
-4. 排序算法
+4. [排序算法](https://blog.csdn.net/zxzxzx0119/article/details/79826380 "csdn总结")
 
 ### 二. 数据结构部分
 
@@ -33,4 +33,10 @@
 
 6. 图
 
-## 
+## 参考文献
+
+1. [算法综述](https://github.com/TheAlgorithms/C-Plus-Plus "比较全面的算法")
+
+2. [算法补充](https://github.com/xtaci/algorithms  "算法补充")
+
+3. [基础算法]( https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms )
